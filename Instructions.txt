@@ -1,0 +1,5 @@
+pip install https://github.com/mattgwwalker/msg-extractor/zipball/master
+
+then
+
+python ExtractMsg.py s.msg

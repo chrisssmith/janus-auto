@@ -1,0 +1,5 @@
+survey_id = '283725'
+api_token = '2xlFHR5ZTyaBXYJDkLfdOEIhaArCkBOM'
+api_token_secret = '2pJrHfswVdf3SNqn'
+db = 'consultation'
+collection = 'trains'

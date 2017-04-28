@@ -1,0 +1,5 @@
+# ignore generated html files,
+*.msg
+data/
+*.msg
+secrets.py
